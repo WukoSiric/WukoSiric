@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>Welcome to my page! 👋</h1>
-  <p>I'm a final year Computer Science undergraduate, passionate about web development and cyber security.</p>
+  <p>I'm a final year Computer Science undergraduate and an aspiring Software Engineer passionate about web development and cyber security.</p>
   
   <h2>Currently working on:</h2>
   <ul>
