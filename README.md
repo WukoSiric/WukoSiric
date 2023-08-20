@@ -4,8 +4,8 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🔭 Distance-Vector routing simulation</li>
     <li>🌱 Maze-Visualization website</li>
+    <li>🔒 Attack Flow MITRE Project </li>
   </ul>
   
   <h3>Languages</h3>
