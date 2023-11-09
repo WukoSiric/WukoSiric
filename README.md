@@ -4,8 +4,8 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🌱 Maze-Visualization website</li>
-    <li>🔒 Attack Flow MITRE Project </li>
+    <li>🌐 Paxos Voting Implementation </li>
+    <li>💻 Screensharing Website </li>
   </ul>
   
   <h3>Languages</h3>
