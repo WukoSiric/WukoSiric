@@ -4,7 +4,7 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🌐 Paxos Voting Implementation </li>
+    <li>🃏 Sudoku Game </li>
     <li>💻 Screensharing Website </li>
   </ul>
   
