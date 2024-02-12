@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1>Welcome to my page! 👋</h1>
-  <p>I'm a final year Computer Science undergraduate and an aspiring Software Engineer passionate about web development and cyber security.</p>
+  <p>I'm a recent Computer Science graduate majoring in Distrubted Systems and Networking at The University of Adelaide, passionate about software engineering and networks!</p>
   
   <h2>Currently working on:</h2>
   <ul>
