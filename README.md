@@ -4,8 +4,8 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🃏 Sudoku Game </li>
-    <li>💻 Screensharing Website </li>
+    <li>🃏 Python Tic-Tac-Toe</li>
+    <li>🎶 Spotify Dashboard </li>
   </ul>
   
   <h3>Languages</h3>
