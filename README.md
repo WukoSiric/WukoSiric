@@ -4,8 +4,8 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🃏 Python Tic-Tac-Toe</li>
     <li>🌽 Maze Solver </li>
+    <li>🔗 Data Structures & Algorithms </li>
   </ul>
   
   <h3>Languages</h3>
