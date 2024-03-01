@@ -19,9 +19,6 @@
     <a href="https://github.com/WukoSiric" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" alt="JavaScript">
     </a>
-    <a href="https://github.com/WukoSiric" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
-    </a>
   </div>
   
   <h3>Tools & Frameworks</h3>
