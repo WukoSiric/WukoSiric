@@ -4,7 +4,7 @@
   
   <h2>Currently working on:</h2>
   <ul>
-    <li>🌽 Maze Solver </li>
+    <li>🗣️ C++ Chat Application </li>
     <li>🔗 Data Structures & Algorithms </li>
   </ul>
   
